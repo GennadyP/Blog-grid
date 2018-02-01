@@ -1,0 +1,20 @@
+@media (min-width: 769px) {
+    .container {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .box {
+        flex: 0 0 360px;
+    }
+    .box-first {
+        display: flex;
+        flex: 0 0 740px;
+    }
+}
+
+@media (min-width: 1025px) {
+
+
+}
