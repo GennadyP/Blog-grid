@@ -6,7 +6,6 @@
 }
 .wraper {
     width: 1600px;
-    /*height: 1400px;*/
     margin: auto;
     background: #e2e7ec;
     padding-top: 90px;
@@ -16,11 +15,10 @@
     margin: 0 auto;
 }
 .box {
-    /*width: 360px;*/
     height: 540px;
     background: #ffffff;
-    margin-left: 20px;
-    margin-bottom: 20px;
+    margin-left: 2%;
+    margin-bottom: 2%;
 }
 .box:first-child, .box:nth-child(3) {
     margin-left: 0;

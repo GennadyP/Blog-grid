@@ -1,3 +1,6 @@
+@media (min-width: 640px) {
+
+}
 @media (min-width: 769px) {
     .container {
         display: flex;
@@ -6,11 +9,11 @@
     }
 
     .box {
-        flex: 0 0 360px;
+        flex: 0 0 32%;
     }
     .box-first {
         display: flex;
-        flex: 0 0 740px;
+        flex: 0 0 66%;
     }
 }
 
