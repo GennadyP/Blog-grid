@@ -5,38 +5,38 @@
     padding: 0;
 }
 .wraper {
-    width: 1600px;
+    width: 80%;
     margin: auto;
     background: #e2e7ec;
-    padding-top: 90px;
+    padding-top: 5%;
 }
 .container {
     width: 70%;
     margin: 0 auto;
 }
 .box {
-    height: 540px;
+    min-height: 540px;
     background: #ffffff;
-    margin-left: 2%;
     margin-bottom: 2%;
 }
-.box:first-child, .box:nth-child(3) {
+.box:first-child {
     margin-left: 0;
 }
 .box-first {
     background:
             linear-gradient(to top, black, transparent 85%),
             url(../i/main.jpg) no-repeat;
+    background-size: cover;
 }
 .box-img {
     with: 100%;
     max-width: 100%;
 }
 .box__content {
-    margin: 30px 0 0 30px;
+    margin: 5.56% 8.3% 5.56% 8.3%;
 }
 .box-content_first {
-    margin: auto 0 40px 40px;
+    margin: auto 0 7.4% 5.4%;
 }
 .box-data {
     font-family: Ubuntu;
